@@ -1,6 +1,2 @@
 ChildFile
-<<<<<<< HEAD
-Hi, Yes, conflict
-=======
 Hi, I 'm here
->>>>>>> 9fb2f4481455bd4f80391bd72b73562b0a56b686

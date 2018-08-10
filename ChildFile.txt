@@ -1,2 +1,2 @@
 ChildFile
-Hi
+Hi, Yes, conflict
